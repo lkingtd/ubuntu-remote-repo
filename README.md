@@ -1,3 +1,2 @@
-### Learning Git
-Hello, Git!
-
+# ubuntu-remote-repo
+learning git
