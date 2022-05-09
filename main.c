@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 what??????
 
 git diff 三种对比
@@ -26,3 +27,12 @@ git diff HEAD^ HEAD
 经过一些验证后
 我发现原来的那种说法是对的：
 站在旧的文件上看，新的文件有何变化
+=======
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello, world!");
+    return 0;
+}
+>>>>>>> learn
